@@ -1,3 +1,4 @@
 # prolog
 Práctica de prolog autómata celular infinito
-Este repositorio es uno de los primeros que creo, por lo que estoy todavía descubriendo cómo funciona. He subido en este caso una práctica que tuve que hacer para la universidad, específicamente para la asignatura de Programación declarativa: lógica y restricciones, es decir, un programa de lenguaje prolog programado en entorno Ciao
+Este repositorio es uno de los primeros que creo, por lo que estoy todavía descubriendo cómo funciona. He subido en este caso una práctica que tuve que hacer para la universidad, específicamente para la asignatura de Programación declarativa: lógica y restricciones, es decir, un programa de lenguaje prolog programado en entorno Ciao.
+La práctica  consiste en programar una serie de predicados aplicables a una lista "infinita" de células a la que se deben aplicar una serie de reglas dependiendo del color de la misma célula y de las vecinas, se ven los algoritmos que usé para conseguirlo  y otros predicados adicionales además del importante de aplicar las reglas, como por ejemplo el predicado de aplicar algunos pasos de una regla dada a una lista inicial etcétera.
